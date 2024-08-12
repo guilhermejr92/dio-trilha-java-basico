@@ -1,7 +1,9 @@
 # Projeto ContaBanco
 
 ## Descrição
-Este projeto simula a criação de uma conta bancária através do terminal/console. O usuário é solicitado a inserir informações como número da agência, número da conta, nome do cliente e saldo inicial. Após a inserção dos dados, o programa exibe uma mensagem de confirmação com as informações fornecidas.
+Este projeto simula a criação de uma conta bancária através do terminal/console.
+O usuário é solicitado a inserir informações como número da agência, número da conta, nome do cliente e saldo inicial.
+Após a inserção dos dados, o programa exibe uma mensagem de confirmação com as informações fornecidas.
 
 ## Funcionalidades
 - Captura de dados via terminal/console.
